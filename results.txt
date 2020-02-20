@@ -1,0 +1,767 @@
+----------------- Summary ----------------
+Analyzed Tweets: 172
+Average Sentiment: 0.8784277711150258
+Average Retweets: 1.7674418604651163
+---------------------------------------------
+Most Positive Tweet: @mehgcap No problem at all Alex, were just happy to help :)
+Retweets:  0
+Value:  0.9995800852775574
+---------------------------------------------
+Less Positive Tweet: @MNSOTA24 Hi Theresa, Although we dont have a direct phone number you can contact The Disability Support Team by phone, using this link https://t.co/WLH2OclWR7. However for Account issues please use The Gmail Help Center: https://t.co/0NFf1Jic5e As The Team are unable to recover accounts!
+Retweets:  0
+Value:  0.18363332748413086
+---------------------------------------------
+Most Retweeted Tweet: There are millions of people with hidden disabilities and over 2.2 billion people who have a vision impairment...but more than 70 percent of all websites are inaccessible to them. Learn how Googles Material Design team is working to improve this → https://t.co/vULeqsHYdu
+Retweets:  65
+Sentiment:  0.20544376969337463
+---------------------------------------------
+Less Retweeted Tweet: @JuanBus84367610 Hey, Juan! How can we help?
+Retweets:  0
+Sentiment:  0.9308135509490967
+----------------- Details ----------------
+# 1
+Tweet: @JuanBus84367610 Hey, Juan! How can we help?
+Sentiment: 0.9308135509490967
+---------------------------------------------
+# 2
+Tweet: @EmmaC_OT Hi Emma! Thats a great question, to my understanding the name currently cannot be changed. However if you think this feature would be helpful to you, please use this link -&gt; https://t.co/WLH2OclWR7 to contact the Disability Support Team who can file that as a request for you!
+Sentiment: 0.9714564085006714
+---------------------------------------------
+# 3
+Tweet: @Msntu3 Hey there! How can we help?
+Sentiment: 0.9383243322372437
+---------------------------------------------
+# 4
+Tweet: @seandilleyNEWS Hey Sean, 
+
+Thank you for your patience, just wanted to reach out and let you know that we will be able to fix this issue but require some more information. Please contact the Disability Support Team using this link -&gt; https://t.co/WLH2OclWR7 and well get this resolved for you!
+Sentiment: 0.8936863541603088
+---------------------------------------------
+# 5
+Tweet: @AyushPr55773718 Hey Ayush, we recommend going through Account Recovery (https://t.co/mGWj9pnHT5) &amp; answer as best you can.  
+
+For any further questions regarding recovering your account we recommend you check out the Help Center article here https://t.co/DoJCK7Xv0g
+Sentiment: 0.9825246930122375
+---------------------------------------------
+# 6
+Tweet: @modesttar Thanks, Rakesh! We think youre pretty great as well! Happy Valentines Day!
+Sentiment: 0.999117374420166
+---------------------------------------------
+# 7
+Tweet: @AyushPr55773718 Hey Ayush, 
+
+Were the Accessibility Support Team, but we recommend using this link -&gt; https://t.co/fu2oGeTP7G to contact Youtube Support who should be able to assist you with this issue. You can also follow these steps to secure your account -&gt; https://t.co/ksN9hlW52u Thanks!
+Sentiment: 0.9533265829086304
+---------------------------------------------
+# 8
+Tweet: @mr_adityawiguna Hey Aditya, 
+
+Thanks for reaching out, please contact our Disability Support Team -&gt; https://t.co/WLH2OclWR7 Wholl be able to note the details of the issue and work towards a resolution for you! Thanks!
+Sentiment: 0.9047558307647705
+---------------------------------------------
+# 9
+Tweet: @ata_veda Hi Veda, we love hearing new ideas! Please submit yours in our feedback form → https://t.co/h9VCzWjTv0 or by contacting our Disability Support team → https://t.co/k62jmHVkDH. Thanks!
+Sentiment: 0.9690364599227905
+---------------------------------------------
+# 10
+Tweet: @1vjatin Hey Jatin! If youre using a physical keyboard or digital keyboard the functionality is ultimately the same. Make sure all UI elements on your Android app gets focus &amp; is properly labeled so users can navigate your page. If you have any other questions please let us know, thanks!
+Sentiment: 0.8742653131484985
+---------------------------------------------
+# 11
+Tweet: Now available on Accessibility Scanner for Android→test entire user journeys across multiple screens of your app with ease in the new Record Mode. Learn more at https://t.co/rU7QhyIHdW https://t.co/BAU0Ggn7HU
+Sentiment: 0.5
+---------------------------------------------
+# 12
+Tweet: @BaseballNerd07 Hey there Reggie, we usually recommend the Select-to-Speak function on Chromebooks for that functionality. For more information, check out this Help Center article→ https://t.co/0zQDmOF8Ze
+
+Let us know if you need further support via this link→ https://t.co/WLH2OclWR7, thanks!
+Sentiment: 0.9255517721176147
+---------------------------------------------
+# 13
+Tweet: @seandilleyNEWS Hey Sean, 
+
+Thanks for making us aware of this, weve reproduced the issue on our side and have filed to have this issue resolved with the appropriate team! In the meantime a possible workaround is to use the Insert+B command, but rest assured its filed for a fix. Thanks!
+Sentiment: 0.9067885875701904
+---------------------------------------------
+# 14
+Tweet: @DemiReigns22 Hey Brooke, 
+
+Thank you for letting us know about this, well be happy to get this resolved for you. Use this link https://t.co/WLH2OcDyfH to contact the Disability Support Team and theyll be able to request some information and get this situation cleared up for you! Thanks!
+Sentiment: 0.9800442457199097
+---------------------------------------------
+# 15
+Tweet: @coolfields Absolutely, 
+
+Thanks for searching through those emails for us, we appreciate it and you can use this link to contact the Disability Support Team -&gt; https://t.co/WLH2OcDyfH  from there we can resubmit the tickets if necessary and get this resolved for you! Thanks!
+Sentiment: 0.9599901437759399
+---------------------------------------------
+# 16
+Tweet: @leannefaith308 @ThePatK Hey there, wed definitely like to take a further look into this. If possible please reach out to the Google Disability Support team → https://t.co/k62jmHVkDH so we can further review and escalate to the appropriate team. Thanks!
+Sentiment: 0.9912852048873901
+---------------------------------------------
+# 17
+Tweet: @blindeducator @lisasali Hey Lisa, we would like to discuss more regarding this. If possible, please contact the Google Disability Support team to discuss further so we can escalate to the appropriate team, thanks! https://t.co/WLH2OclWR7
+Sentiment: 0.9860205054283142
+---------------------------------------------
+# 18
+Tweet: @alpuzz Hey Al, weve found that the Bookmarks manager in chrome://bookmarks/ works best for the community. That being said there isnt a way to select multiple at once. If youd like to see this as a feature you can submit it here in our feedback form → https://t.co/h9VCzWjTv0  Thanks!
+Sentiment: 0.9363968968391418
+---------------------------------------------
+# 19
+Tweet: @ted_drake @CEEKTechnology We agree! Thanks Christopher for all the work you do.
+Sentiment: 0.9313373565673828
+---------------------------------------------
+# 20
+Tweet: @TeacherForVI Hi Michele, we love hearing new ideas! Please submit yours in our feedback form → https://t.co/h9VCzWjTv0 or by contacting our Disability Support team → https://t.co/k62jmHVkDH. Thanks!
+Sentiment: 0.9690364599227905
+---------------------------------------------
+# 21
+Tweet: @coolfields Hey there! Wed love to take a look at your cases with the Google Disability Support Team. Would you mind giving us your case numbers so we can further review?
+Sentiment: 0.8965688347816467
+---------------------------------------------
+# 22
+Tweet: @Sitarj Hey there, Janos! Theres a lot of information wed like to send over to you regarding this, but are limited to 280 characters here. If possible, please contact Google Disability Support to discuss further, thanks! https://t.co/WLH2OclWR7
+Sentiment: 0.8398398160934448
+---------------------------------------------
+# 23
+Tweet: @spjustin Hey, J! We appreciate your feedback. We shape our products with suggestions like this &amp; can understand how this would be helpful for the community. Please submit your feedback here → https://t.co/h9VCzWjTv0 or by contacting Disability Support → https://t.co/k62jmHVkDH. Thanks!
+Sentiment: 0.9756354689598083
+---------------------------------------------
+# 24
+Tweet: @pitermach Hey Piotr! We already reached out to Erion regarding this, but we would appreciate it if you reached out to Google Disability Support as well to create a case. This way we can further review and escalate to the appropriate team, thanks! https://t.co/WLH2OclWR7
+Sentiment: 0.9664517641067505
+---------------------------------------------
+# 25
+Tweet: @jonopus Hey Jonopus, 
+
+Thanks for reaching out! 
+
+We always try to make accessibility features as readily available and far-reaching as possible, wed also recommend checking out the following article on Action Blocks: https://t.co/aF5q7tfJnh
+
+Hope this helps, thanks!
+Sentiment: 0.9972099661827087
+---------------------------------------------
+# 26
+Tweet: @DigHunt7 Hey there, thank you for your interest and were happy to help with this!
+
+For available accessibility roles with Google, check out this link -&gt; https://t.co/BTa9DkAD6V
+
+We hope you find that to be helpful and if theres anything else we can help with were always here! Thanks!
+Sentiment: 0.9906104207038879
+---------------------------------------------
+# 27
+Tweet: @ScopicEngineer Hi Crystal, thanks for reaching out! Wed like to explore this a bit further. If possible, please contact our Google Disability Support team → https://t.co/k62jmHVkDH to discuss so we can further troubleshoot and escalate to the appropriate team, thanks!
+Sentiment: 0.9727795720100403
+---------------------------------------------
+# 28
+Tweet: @wolfcrane Hey Jamie! Sorry to hear youre having issues with Closed Captions on your Roku with Google Play Movies. If you would, please contact Google Disability Support → https://t.co/k62jmHVkDH to discuss so we can further troubleshoot &amp; escalate to the appropriate team, thanks!
+Sentiment: 0.8549473881721497
+---------------------------------------------
+# 29
+Tweet: @blind_scholar Hi Eric, thanks for reaching out! If possible, please contact our Google Disability Support team → https://t.co/k62jmHVkDH to discuss so we can escalate to the appropriate team, thanks!
+Sentiment: 0.9888795614242554
+---------------------------------------------
+# 30
+Tweet: @jekis Hey Justin, thanks for escalating this. Wed like to take a closer look. If possible, please contact Google Disability Support (M-F 8AM-5PM PT) to discuss further so we can further troubleshoot and escalate to the appropriate team, thanks! https://t.co/WLH2OclWR7
+Sentiment: 0.9492560625076294
+---------------------------------------------
+# 31
+Tweet: @HNguyenLy Hey Hai, if you file a ticket with the Disability Support team → https://t.co/k62jmHVkDH they can escalate this to the appropriate team for further review. Thanks!
+Sentiment: 0.9804136753082275
+---------------------------------------------
+# 32
+Tweet: @flameborn Hey Erion, Thanks for making us aware of this! 
+
+Please use this link https://t.co/WLH2OclWR7 to contact The Disability Support Team and theyll be able to file a request on your behalf to have this resolved, as soon as they confirm the issue with testing! 
+
+Thanks!
+Sentiment: 0.7570441961288452
+---------------------------------------------
+# 33
+Tweet: @HNguyenLy Hi Hai, thanks for the feedback! Wed love to hear more. If you can please send this to us in our feedback form → https://t.co/h9VCzWjTv0 or by contacting our Disability Support team → https://t.co/k62jmHVkDH. Thanks!
+Sentiment: 0.9297486543655396
+---------------------------------------------
+# 34
+Tweet: @AudraDenty4 Hey there, Audra! How can we help?
+Sentiment: 0.932820200920105
+---------------------------------------------
+# 35
+Tweet: @JesseWienholts @soundshadow87 Hello &amp; thanks for reaching out! We love hearing all feedback. Would you be able to elaborate on how we can improve by contacting our Disability Support team → https://t.co/k62jmHVkDH. From there we can escalate this to the appropriate team for further review. Thanks!
+Sentiment: 0.9893403649330139
+---------------------------------------------
+# 36
+Tweet: @alpuzz Hey there, Al! That is the only way we are aware of navigating previous Google Play Apps. However, you may have more luck reaching out to the Google Play Team via the link here: https://t.co/ED2m8toc39. Let us know if you have any further questions. Thanks!
+Sentiment: 0.5
+---------------------------------------------
+# 37
+Tweet: @rusty0101 Hey Jay! We love hearing new ideas! Please submit yours in our feedback form → https://t.co/h9VCzWjTv0 or by contacting our Disability Support team → https://t.co/k62jmHVkDH. Thanks!
+Sentiment: 0.9616516828536987
+---------------------------------------------
+# 38
+Tweet: @ahiggi Hi Adrian, thank you for making us aware of this! Wed love to help you get this resolved, please contact our Disability Support Team using this link https://t.co/WLH2OclWR7 and theyll investigate further and work towards a solution for you! In the meantime have a great day!
+Sentiment: 0.977436900138855
+---------------------------------------------
+# 39
+Tweet: @gem_turner Hi Gem, thanks for the feedback! We love hearing new ideas. Please submit yours in our feedback form → https://t.co/h9VCzWjTv0 or by contacting our Disability Support team → https://t.co/k62jmHVkDH. Thanks!
+Sentiment: 0.9825680255889893
+---------------------------------------------
+# 40
+Tweet: @vocativecomma Hey Tasha, thanks for letting us know! Wed like to take a closer look. If you could, can you contact Google Disability Support to discuss further so we can further troubleshoot and escalate to the appropriate team, thanks! https://t.co/WLH2OclWR7
+Sentiment: 0.9934056997299194
+---------------------------------------------
+# 41
+Tweet: @CEEKTechnology Hi Christopher, thanks for reaching out! Lets try to troubleshoot this further. Can you reach out to the Disability Support Team to discuss further &amp; we can further troubleshoot and escalate to the appropriate team, thanks! https://t.co/WLH2OclWR7
+Sentiment: 0.971002459526062
+---------------------------------------------
+# 42
+Tweet: @mehgcap Hi Alex, thanks for reaching out! We tested this on our end but we werent able to replicate the problem. If you could contact our Google Disability Support team to discuss further wed like to troubleshoot more &amp; escalate to the appropriate team, thanks! https://t.co/WLH2OclWR7
+Sentiment: 0.9366503357887268
+---------------------------------------------
+# 43
+Tweet: @AlexKLMan Hey Alex, wed like to take a look into that. Do you happen to have the case number?
+Sentiment: 0.8399114012718201
+---------------------------------------------
+# 44
+Tweet: @ChanceyFleet Hey Chancey, well send you a DM. Thanks!
+Sentiment: 0.9658406972885132
+---------------------------------------------
+# 45
+Tweet: @melloinseattle @ChanceyFleet Hey everyone! Wed definitely like to take a look into this. Please contact our Google Disability Support team through email, chat or phone (M-F 8AM-5PM PT) so we can further troubleshoot and escalate to the appropriate team, thanks! https://t.co/WLH2OclWR7
+Sentiment: 0.9746692180633545
+---------------------------------------------
+# 46
+Tweet: @modesttar Hey Rakesh! Happy New Year to you as well!
+Sentiment: 0.9959239959716797
+---------------------------------------------
+# 47
+Tweet: @amyl_olsen Hey Amy! Happy New Year! 
+
+You mentioned earlier that this was an issue with Best Secure. Can you elaborate on that? Maybe we can direct you to the appropriate channel for further support.
+Sentiment: 0.9874774813652039
+---------------------------------------------
+# 48
+Tweet: @amyl_olsen Not sure if we can help with that. Have you checked out our Help Center? Theres a wealth of knowledge of everything Google in there. If you cant find an answer youre looking for, check out the Community Help Forums too! https://t.co/v4yUregbxE
+Sentiment: 0.5
+---------------------------------------------
+# 49
+Tweet: @LoverBo88933189 Hey there! How can we help?
+Sentiment: 0.9383243322372437
+---------------------------------------------
+# 50
+Tweet: @amyl_olsen Hey Amy, sorry to hear about your long hold time. Was your issue in regards to  Accessibility at Google? If so wed be happy to help! Please contact Google Disability Support (M-F 8AM-5PM PT) to discuss further, thanks! https://t.co/WLH2OclWR7
+Sentiment: 0.7499658465385437
+---------------------------------------------
+# 51
+Tweet: @A11y96672329 Hey there! You can find this in the chrome://flags page in your Chrome Browse under Enable Reader Mode. There you can enable/disable the feature. If you need some help with this please contact Google Disability Support (M-F 8AM-5PM PT), thanks! https://t.co/WLH2OclWR7
+Sentiment: 0.7509683966636658
+---------------------------------------------
+# 52
+Tweet: @Earl_Dillon Hey Earl, thanks for your interest in Live Relay. We dont have a time frame of when it will be available yet but make sure to stay up to date with us here for any future updates. 
+
+To become a trusted tester, Id recommend checking out our form here: https://t.co/JOyt3z4AeV
+Sentiment: 0.9827620983123779
+---------------------------------------------
+# 53
+Tweet: @paricha65515754 Hey there Parichat, how can we help?
+Sentiment: 0.9112107753753662
+---------------------------------------------
+# 54
+Tweet: @bhaensel Hey, Ben! Our Chromebooks have Select-to-Speak, which allows specific text on a page to be read to you. Although, were always looking to improve accessibility here &amp; we love hearing new ideas! If you want to submit feedback you can do so here→ https://t.co/h9VCzWjTv0, thanks!
+Sentiment: 0.9426006078720093
+---------------------------------------------
+# 55
+Tweet: Learn how Google’s Project Euphonia and @DeepMindAI helped recreate former NFL linebacker Tim Shaw’s voice in the new YouTube Originals learning series #AgeOfAI →https://t.co/647smG3KE0
+Sentiment: 0.5
+---------------------------------------------
+# 56
+Tweet: @ayokoya Hey Ayoola, well gladly help with this! 
+
+If youve identified an issue with Gboard please use this link -&gt; https://t.co/WLH2OclWR7 to let our team know and well begin working to get this resolved for you! Were always here for you and hope youre having a nice day! Thanks!
+Sentiment: 0.9799219369888306
+---------------------------------------------
+# 57
+Tweet: @TuneItDown_Huh Hey thanks for putting this out there! If this is a feature youd like us to look into just use this link -&gt; https://t.co/WLH2OclWR7 and let The Disability Support Team know! Theyll get it filed as a request for you. Always here if theres anything else you need, thanks!
+Sentiment: 0.7663933038711548
+---------------------------------------------
+# 58
+Tweet: .@NyleDiMarco sits down with Google at our annual Accessibility Week to talk about Deaf culture, his foundation, @NyleDFoundation, and ways to reduce language deprivation for Deaf and HoH children through technological solutions #Accessibility #DeafKids → https://t.co/7hUqnXipPu
+Sentiment: 0.21499380469322205
+---------------------------------------------
+# 59
+Tweet: @JennaFoxface Hi Jenna, thanks for reaching out! Sorry to hear youre having troubles with YouTube. If possible, please contact Google Disability Support (M-F 8AM-5PM PT) to discuss further so we can further troubleshoot and escalate to the appropriate team, thanks! https://t.co/WLH2OclWR7
+Sentiment: 0.8648288249969482
+---------------------------------------------
+# 60
+Tweet: @AndrePolykanine Hi Andre, thanks for letting us know! 
+
+If you contact our team here -&gt; https://t.co/WLH2OclWR7 theyll be able to file that as a Feature Request for you and let the developer teams know this is something you want!
+
+Thanks and we hope youre having a great day!
+Sentiment: 0.9941436648368835
+---------------------------------------------
+# 61
+Tweet: @AndreaVarosi Hey, Andrea! Were working diligently to expand Live Caption to more devices and we love hearing new ideas! Please submit your feedback here → https://t.co/h9VCzWjTv0 or by contacting our Disability Support team → https://t.co/k62jmHVkDH. Thanks!
+Sentiment: 0.9818333983421326
+---------------------------------------------
+# 62
+Tweet: @Filibuster3 Hey, Karyn! Thanks for that. Well check it out!
+Sentiment: 0.9903500080108643
+---------------------------------------------
+# 63
+Tweet: @Filibuster3 Hey there Karyn, thanks for reaching out! Wed like to review your case. Do you have the Case ID available? Thanks.
+Sentiment: 0.9754254221916199
+---------------------------------------------
+# 64
+Tweet: @a11y_mmo Hey there, Marcus! Landmarks are very important to us, thank you for bringing this to our attention. If possible, please contact Google Disability Support → https://t.co/k62jmHVkDH to discuss so we can isolate this and escalate to the appropriate team, thanks!
+Sentiment: 0.9901162385940552
+---------------------------------------------
+# 65
+Tweet: @sightlessKombat Hi there, thanks for reaching out! Wed like to explore the issues youre having with YouTube. If possible, please contact our Google Disability Support team through email, chat or phone (M-F 8AM-5PM PT) to discuss further, thanks! https://t.co/WLH2OclWR7
+Sentiment: 0.5
+---------------------------------------------
+# 66
+Tweet: Learn how @googlenest used ultrasound sensing to create a better experience on Nest displays for people who have low vision → https://t.co/IlcceWOlw1 https://t.co/QAZcM0hWtZ
+Sentiment: 0.8814074993133545
+---------------------------------------------
+# 67
+Tweet: @yaminAlizadeh3 Hey there, Dryamin! How can we help?
+Sentiment: 0.932820200920105
+---------------------------------------------
+# 68
+Tweet: @diazcbranden Hey Branden, absolutely! What can we help you with?
+Sentiment: 0.9046493768692017
+---------------------------------------------
+# 69
+Tweet: @mehgcap No problem at all Alex, were just happy to help :)
+Sentiment: 0.9995800852775574
+---------------------------------------------
+# 70
+Tweet: @ingalagisiddu Hey there Siddalingeshwar! Were not sure which feature on maps youre referring to, but if theres a particular accessibility related feature youd like available please let us know here -&gt; https://t.co/h9VCzWjTv0 and well investigate it for you! Thanks!
+Sentiment: 0.9855232834815979
+---------------------------------------------
+# 71
+Tweet: @seeingwithsound Hey there, we appreciate the feedback! If this is a feature youd like to have in future please let us know here -&gt; https://t.co/h9VCzWjTv0  we always want to make ourselves as helpful as possible!
+Sentiment: 0.9728033542633057
+---------------------------------------------
+# 72
+Tweet: @mehgcap Hi Alex, weve tested using two different Windows 10 devices (both of which were using NVDA, Firefox and Gmail) and weve been unable to replicate the issue on either device. Please reach out with the additional details weve requested and well continue working to help you.
+Sentiment: 0.24837538599967957
+---------------------------------------------
+# 73
+Tweet: @mehgcap Hey Alex! Weve performed testing on our side but havent been able to produce the issue youre describing. We still want to get this sorted and help you. Contact us here -&gt; https://t.co/WLH2OclWR7 well get your exact software versions and continue working to solve this for you!
+Sentiment: 0.22567936778068542
+---------------------------------------------
+# 74
+Tweet: @amirhsol Hey Amir, thanks for reaching out! We tried the link you included and received an error as well. It seems  like this may be a temporary internal issue, well be working to resolve! If youd like further assistance please use this link https://t.co/WLH2OclWR7 to contact the team!
+Sentiment: 0.8180373907089233
+---------------------------------------------
+# 75
+Tweet: @diazcbranden Wed love to help if we can! Please file a ticket with the Google Disability Support team → https://t.co/k62jmHVkDH. Thanks!
+Sentiment: 0.5
+---------------------------------------------
+# 76
+Tweet: @diazcbranden Hey Branden, were not sure how we can help. If possible, please contact our Google Disability Support team → https://t.co/k62jmIcW2h to discuss so we can escalate to the appropriate team, thanks!
+Sentiment: 0.9835518002510071
+---------------------------------------------
+# 77
+Tweet: @sumandamera Hi Suman, thanks for letting us know! Wed love to get more information from you to reproduce the problem youre having and escalate to the appropriate team. Please contact our Google Disability Support team → https://t.co/k62jmIcW2h. Thanks!
+Sentiment: 0.9741325974464417
+---------------------------------------------
+# 78
+Tweet: @JonAvilaA11y Hi Jon, thanks for reaching out! If possible, please contact our Google Disability Support team through email, chat or phone (M-F 8AM-5PM PT) to discuss further so we can further troubleshoot and escalate to the appropriate team, thanks! https://t.co/WLH2OcDyfH
+Sentiment: 0.7657604813575745
+---------------------------------------------
+# 79
+Tweet: @kalishjon Sent you a DM, let us know how we can help. Thanks!
+Sentiment: 0.9878540635108948
+---------------------------------------------
+# 80
+Tweet: @mehmetumutmutlu Hey Mehmet, thats awesome! Thanks for the initiative to help shape features and products at Google. If you have any feedback or suggestions in the meantime, please let us know! Were happy to help.
+Sentiment: 0.9974537491798401
+---------------------------------------------
+# 81
+Tweet: @kalishjon Hey there! Its great that youre interested in doing a radio story on Live Transcribe! Is there anything we can provide or help with? 
+
+Thanks for you interest in Live Transcribe and we hope youre having a great day!
+Sentiment: 0.9952290058135986
+---------------------------------------------
+# 82
+Tweet: @sandrablanton18 Hey Sandra, thanks for reaching out. It seems your best bet would be to review the Protecting against fraudulent calls Help Center page, as the Google My Business team has addressed those calls in that article. You can find it here https://t.co/qN72xi5Ahd, thanks!
+Sentiment: 0.9003846645355225
+---------------------------------------------
+# 83
+Tweet: @gumnos Hey Tim, can you provide the case ID so we can take a look into the previous interaction? Wed love to review and add this to the case. Thanks!
+Sentiment: 0.954613208770752
+---------------------------------------------
+# 84
+Tweet: @Caroline5 Hey Caroline, thanks for reaching out. Weve sent this over to the appropriate team for further review. If we have any questions well reach back out. If you have any other feedback please contact Google Disability Support → https://t.co/k62jmHVkDH to discuss further, thanks!
+Sentiment: 0.9828915596008301
+---------------------------------------------
+# 85
+Tweet: @Tom16027112 Hey Tom, the Google Home devices are compatible with audio books from the Google Play Books store. You can find out more information on that here: https://t.co/Z1UUQploYY
+
+Let us know if you have any other questions, were happy to help!
+Sentiment: 0.9557701349258423
+---------------------------------------------
+# 86
+Tweet: @tony_sutton Hey Tony, we sent you a DM. Keep an eye out for that. Thanks!
+Sentiment: 0.8536375761032104
+---------------------------------------------
+# 87
+Tweet: @TonySua17049335 Great selfie, Tony! How can we help?
+Sentiment: 0.9430220723152161
+---------------------------------------------
+# 88
+Tweet: @pitisangtang Hey Piti, we sent you an email at the previously provided address. We look forward to hearing from you. Thanks!
+Sentiment: 0.9618293046951294
+---------------------------------------------
+# 89
+Tweet: @rahulsoniRSoni Hi Rahul, thanks for reaching out! You can contact our Google Disability Support team through email, chat or phone (M-F 8AM-5PM PT) at the following link: https://t.co/WLH2OclWR7
+
+We look forward to hearing from you, thanks!
+Sentiment: 0.5
+---------------------------------------------
+# 90
+Tweet: @iamcalliegray Hey Callie, thank you for your detailed response! Please use this link https://t.co/WLH2OclWR7 to contact the Disability Support Team wholl be able to file this as a feature request for you! in the meantime if theres anything else you need were always here for you! Thanks!
+Sentiment: 0.9389427900314331
+---------------------------------------------
+# 91
+Tweet: @cmbaileyatx Hey there! Sorry we missed the original post &amp; thanks for reaching back out! We want to look into this further. If possible, please contact our Google Disability Support team → https://t.co/k62jmHVkDH so we can gather some info and test, thanks!
+Sentiment: 0.8318089246749878
+---------------------------------------------
+# 92
+Tweet: @charliecoyle91 Hi Charlie, thanks for a great question! Whilst an update isnt available at the moment we recommend you continue to follow us on Twitter and our Accessibility Blog here -&gt; https://t.co/Ad88uXIXWe for updates on everything related to Google Accessibility in future! Thanks!
+Sentiment: 0.9736864566802979
+---------------------------------------------
+# 93
+Tweet: @iamcalliegray Hi Callie, thank you for letting us know! If you dont mind us asking, would it help if everything was high-contrast except the video and photo media? Well gladly do our best to help.
+Sentiment: 0.9968322515487671
+---------------------------------------------
+# 94
+Tweet: @LavAudio Hi Lavender, thanks for reaching out! We would like to review this further, if possible please contact our Google Disability Support to discuss further so we can further troubleshoot and escalate to the appropriate team, thanks! https://t.co/WLH2OclWR7
+Sentiment: 0.9894148111343384
+---------------------------------------------
+# 95
+Tweet: @pitisangtang Hi there, were still unclear on your issue. If possible, please contact our Google Disability Support team through email, chat or phone (M-F 8AM-5PM PT) to discuss further and escalate to the appropriate team, thanks! https://t.co/WLH2OclWR7
+Sentiment: 0.865312397480011
+---------------------------------------------
+# 96
+Tweet: @DerekRiemer @LyricalSunset7 Hey all, thanks for reaching out. To learn more on how to edit spreadsheets with a screen reader we recommend reviewing this article (https://t.co/HYQnPeEoiE). If you need further help, feel free to reach out to Google Disability Support (https://t.co/k62jmHVkDH), thanks!
+Sentiment: 0.9650131464004517
+---------------------------------------------
+# 97
+Tweet: @mehgcap Hey Alex, thanks for passing this along. Were going to send this over to the appropriate team for further review. If you could file a support ticket with Google Disability Support we can reach back out when we get an update! https://t.co/WLH2OclWR7
+Sentiment: 0.9609341025352478
+---------------------------------------------
+# 98
+Tweet: @Fin28861899 Hey Fin, how can we help today?
+Sentiment: 0.8886397480964661
+---------------------------------------------
+# 99
+Tweet: @gumnos Hi Tim, thanks for reaching out! If possible, please contact our Google Disability Support team through email, chat or phone (M-F 8AM-5PM PT) to discuss further so we can further troubleshoot and escalate to the appropriate team, thanks! https://t.co/WLH2OclWR7
+Sentiment: 0.7657604813575745
+---------------------------------------------
+# 100
+Tweet: @pitisangtang Hi there! Wed love to get more information from you regarding problem youre having and escalate to the appropriate team. Please contact our Google Disability Support team → https://t.co/k62jmHVkDH. Thanks!
+Sentiment: 0.950857937335968
+---------------------------------------------
+# 101
+Tweet: @handcoding Hi Ashley, thanks for reaching out! Wed like to review this further. If possible, please contact us through email, chat or phone (M-F 8AM-5PM PT) so we can further troubleshoot and escalate to the appropriate team, thanks! https://t.co/WLH2OclWR7
+Sentiment: 0.9068324565887451
+---------------------------------------------
+# 102
+Tweet: @pitisangtang Hey there! How can we help?
+Sentiment: 0.9383243322372437
+---------------------------------------------
+# 103
+Tweet: @FreakyFwoof Hey, Andre! Thanks for bringing this to our attention. Wed like to review it further. Can you contact our Google Disability Support team → https://t.co/k62jmHVkDH to discuss so we can further troubleshoot and escalate to the appropriate team, thanks!
+Sentiment: 0.9779660701751709
+---------------------------------------------
+# 104
+Tweet: @SalimKassams1 Hey Salim, thanks for your desire to help test our products. We do have options on early user studies you can participate in. You can help shape the features we provide on our UX Research Page (https://t.co/6EwE5zJCsZ). Let us know if you have anymore questions, thanks!
+Sentiment: 0.8777798414230347
+---------------------------------------------
+# 105
+Tweet: @vitallie @jfayre Hey Jason &amp; Vincent, while we dont have an estimate on when it will be made available in Europe &amp; Canada, were working hard to expand internationally. Make sure to stay up to date here &amp; on our blog (https://t.co/mYLetUgW7h) for future updates. Thanks!
+Sentiment: 0.8470332622528076
+---------------------------------------------
+# 106
+Tweet: @alpuzz Hey Al, thanks for making us aware of this issue. Wed love to help you get this resolved, but we have to collect some more information before were able to do that - use this link https://t.co/WLH2OclWR7 to contact the Disability Support Team and well get it taken care of!
+Sentiment: 0.882849931716919
+---------------------------------------------
+# 107
+Tweet: @misskitty1222 Hi there, thanks for reaching out! We would like to review this further to find where the issue is stemming from. If you would, please contact our Google Disability Support team → https://t.co/k62jmHVkDH so we can further troubleshoot &amp; escalate to the appropriate team, thanks!
+Sentiment: 0.9643434286117554
+---------------------------------------------
+# 108
+Tweet: Loved demoing #LiveTranscribe last night at #CHCFeast and meeting so many of our wonderful users. Thank you for the honor @CHCHearing! https://t.co/v7hApd6r2l
+Sentiment: 0.9890574216842651
+---------------------------------------------
+# 109
+Tweet: @Pianist_85 Hi Daniele, this is a great idea! If you would, please send this feedback to our form → https://t.co/h9VCzWjTv0 or by contacting our Disability Support team → https://t.co/k62jmHVkDH. Thanks!
+Sentiment: 0.9832465052604675
+---------------------------------------------
+# 110
+Tweet: @rileymacisaac Hi Riley, thanks for reaching out! If possible, please contact our Google Disability Support team through email, chat or phone (M-F 8AM-5PM PT) to discuss further so we can further troubleshoot and escalate to the appropriate team, thanks! https://t.co/WLH2OclWR7
+Sentiment: 0.7657604813575745
+---------------------------------------------
+# 111
+Tweet: @adiuxstories Hey Aditi, these are great practices! Thanks for the share and spreading the word regarding keeping accessibility in mind when developing an inclusive User Experience.
+Sentiment: 0.9753004312515259
+---------------------------------------------
+# 112
+Tweet: @Neurrone Hey Dickson, were excited about it too! Right now we dont have a timeframe on when this will be rolled out. However, be sure to continue following us here and on our blog → https://t.co/mYLetUgW7h for the latest news and updates, thanks!
+Sentiment: 0.8914656043052673
+---------------------------------------------
+# 113
+Tweet: @missangelpearls Hey Priyanka, this is already an option on Live Transcribe, but we can see how it would be useful in GSuite as well. Please submit this in our feedback form → https://t.co/h9VCzWjTv0 or by contacting our support team → https://t.co/k62jmHVkDH. Thanks!
+Sentiment: 0.9219568371772766
+---------------------------------------------
+# 114
+Tweet: @mehgcap Hey Alex, wed like to review this case. Can you send us the Case ID so we can take a look into that for you? Thanks!
+Sentiment: 0.9205704927444458
+---------------------------------------------
+# 115
+Tweet: @CEEKTechnology Thanks for the kind words, Chris!
+Sentiment: 0.9588027596473694
+---------------------------------------------
+# 116
+Tweet: @LangtrysBnB Hey David, this doesnt seem to be in our realm of expertise as we work with Google accessibility and assistive technologies. However, you can suggest an edit for Local Guides by following the steps in this article:  https://t.co/eyVTA4WpML. Thanks!
+Sentiment: 0.820033073425293
+---------------------------------------------
+# 117
+Tweet: @ksuding Hey Kelli, were equally as Geeked! Thanks for the continued support and everything youre doing for the Accessibility Community.
+Sentiment: 0.8539199233055115
+---------------------------------------------
+# 118
+Tweet: @TobyVIP Hey, Toby! While we dont have any announcement on when it will be available in the UK, continue to following us here and on our blog →https://t.co/mYLetUgW7h for the latest news and updates, thanks!
+Sentiment: 0.8198099136352539
+---------------------------------------------
+# 119
+Tweet: @KaitholiyaNitin Hey Nitin, we primarily support the Google accessibility &amp; assistive technologies side of things but these steps will help to change your Gmail profile picture: https://t.co/DVwuUEdpTT 
+
+Let us know if you have any questions regarding Google accessibility, were happy to help!
+Sentiment: 0.9700925350189209
+---------------------------------------------
+# 120
+Tweet: @mehgcap Hey Alex, we want to help get this solved for you, please contact the team using this link https://t.co/WLH2OclWR7 and well have them test it, Im sure theyll be glad to get to the bottom of it for you! Thanks!
+Sentiment: 0.9775054454803467
+---------------------------------------------
+# 121
+Tweet: @a11ystreaming Hey there, thats a great question! Pixel Slate devices are available here -&gt; https://t.co/Doy1HvleZb We hope that helps and in the meantime have a wonderful day!
+Sentiment: 0.9910945892333984
+---------------------------------------------
+# 122
+Tweet: @AlexKLMan Hey Alex, definitely sounds like an issue and wed love to help with getting that resolved! Please use this link to reach the Disability Support Team https://t.co/WLH2OclWR7 and theyll collect some more information, perform some testing and help get this taken care of for you!
+Sentiment: 0.8448241353034973
+---------------------------------------------
+# 123
+Tweet: @Giyeon_Hwang Hey, Giyeon! There shouldnt be anything keeping you, or anyone who has a visual 
+impairment,  from using the Face Unlock feature on the Pixel. However, if you do run into any issues, please let us know so we can further review! Thanks.
+Sentiment: 0.9377838373184204
+---------------------------------------------
+# 124
+Tweet: @ameyinvent Hey Amey, thanks for tweeting at us! Wed recommend that you reach out to our team via the https://t.co/YeEbO16JkG request form. While we cant guarantee a response, we will route your request to the appropriate team for review. Thanks!
+Sentiment: 0.968025803565979
+---------------------------------------------
+# 125
+Tweet: @junlimited Hi James, thanks for that feedback! Wed love to review that further. If you would, please send us this suggestion in your feedback form → https://t.co/h9VCzWjTv0 or by contacting our Disability Support team → https://t.co/k62jmHVkDH. Thanks!
+Sentiment: 0.9591262340545654
+---------------------------------------------
+# 126
+Tweet: Learn how Laura Allen, a Sr. Accessibility Program Manager for Chrome and Chrome OS Accessibility works to make our products as helpful as possible— for everyone. https://t.co/8N5sHRWPaU
+Sentiment: 0.8913712501525879
+---------------------------------------------
+# 127
+Tweet: David Tseng has dedicated his career to using technology to break down barriers for people with disabilities. At Google, he’s the Technical Lead for Chrome OS accessibility... Learn more about ways David works to make Chrome OS more accessible → https://t.co/6VtamXvCew
+Sentiment: 0.24432316422462463
+---------------------------------------------
+# 128
+Tweet: @JosefaA73701896 Hey, Josefa! How can we make your day awesome?
+Sentiment: 0.9691891670227051
+---------------------------------------------
+# 129
+Tweet: @FB_Canada Hello, Fighting Blindness Canada team! Thanks for sharing!
+Sentiment: 0.9486963748931885
+---------------------------------------------
+# 130
+Tweet: @krishnajariwala Hi Krishna, while we dont have any update available on that right now, wed recommend that you send that suggestion over to our feedback form → https://t.co/h9VCzWjTv0 or by contacting our Disability Support team → https://t.co/k62jmHVkDH so we can further review. Thanks!
+Sentiment: 0.9604025483131409
+---------------------------------------------
+# 131
+Tweet: Create to connect 🤝💫
+
+Meet Amey from @GDGPune. Using a Google Voice API and 
+@Android, he developed an app for the deaf and hard-of-hearing community to express themselves and better connect with others. #a11y #accessibility
+
+Watch his story → https://t.co/BV3tJpUJV7
+Sentiment: 0.9260703325271606
+---------------------------------------------
+# 132
+Tweet: There are millions of people with hidden disabilities and over 2.2 billion people who have a vision impairment...but more than 70 percent of all websites are inaccessible to them. Learn how Googles Material Design team is working to improve this → https://t.co/vULeqsHYdu
+Sentiment: 0.20544376969337463
+---------------------------------------------
+# 133
+Tweet: @ayokoya Hey Ayoola, as always we appreciate all feedback for our features and products. If you would, please send this feedback to us in our feedback form → https://t.co/h9VCzWjTv0 or by contacting our Disability Support team → https://t.co/k62jmHVkDH. Thanks!
+Sentiment: 0.9644958972930908
+---------------------------------------------
+# 134
+Tweet: @Object_InSpace Hey Drew &amp; @ATAllport, thanks for sending this over to us. Please submit this in our feedback form → https://t.co/h9VCzWjTv0 or by contacting our Disability Support team → https://t.co/k62jmHVkDH. So we can send it over to the appropriate team for further review. Thanks!
+Sentiment: 0.9754882454872131
+---------------------------------------------
+# 135
+Tweet: @ata_veda Hey Veda, the best way to send feedback to the Google Maps team is by doing so in the steps in this Help Center article: https://t.co/BxXdsrrFWy. If you have any questions regarding Google accessibility and assistive technologies, feel free to let us know. Were happy to help!
+Sentiment: 0.990477442741394
+---------------------------------------------
+# 136
+Tweet: @brycej Hey Bryce, thanks for the kind words! Were super excited about it too. If you have any feedback once it launches please submit it in our feedback form → https://t.co/h9VCzWjTv0 or by contacting our Disability Support team → https://t.co/k62jmHVkDH. Thanks!
+Sentiment: 0.9959886074066162
+---------------------------------------------
+# 137
+Tweet: @ChatableApps Hey Chatable Apps team! Reach out to our Google Disability Support team through email, chat or phone (M-F 8AM-5PM PT) so we can learn more! We love hearing about new Accessibility initiatives within our community. Thanks! https://t.co/WLH2OclWR7
+Sentiment: 0.5
+---------------------------------------------
+# 138
+Tweet: @CEEKTechnology Hey, Chris, were happy to help. Thanks for everything you do for the accessibility community!
+Sentiment: 0.9934495091438293
+---------------------------------------------
+# 139
+Tweet: @rodzungala Hey there, 
+
+The latest changes to TalkBack are available in the following description of the Android Accessibility Suite: https://t.co/4sfzbrL65I We hope you find this information helpful but if you need anything else feel free to let us know! Thanks and have a great day!
+Sentiment: 0.9872696399688721
+---------------------------------------------
+# 140
+Tweet: @MNSOTA24 Hi Theresa, Although we dont have a direct phone number you can contact The Disability Support Team by phone, using this link https://t.co/WLH2OclWR7. However for Account issues please use The Gmail Help Center: https://t.co/0NFf1Jic5e As The Team are unable to recover accounts!
+Sentiment: 0.18363332748413086
+---------------------------------------------
+# 141
+Tweet: @brynanders Hi Bryn, thanks for reaching out! Wed love to look further into this and see where the issue is stemming from. You can reach us through phone, chat, email or Be My Eyes through this link https://t.co/WLH2OclWR7, thanks!
+Sentiment: 0.8973489999771118
+---------------------------------------------
+# 142
+Tweet: @AndreaVarosi Hey, Andrea! Were starting with the Pixel 4 at launch. For more information on Live Caption and other cool stuff coming to Android 10 check out this link: https://t.co/ziUMX2wV5L
+
+Thanks!
+Sentiment: 0.9318814277648926
+---------------------------------------------
+# 143
+Tweet: @HaStry Hey Hans! If youre aware of an issue with reminders for Gsuite users related to accessibility, please contact The Google Disability Support Team https://t.co/WLH2OclWR7 wholl be able to test the issue and work towards a resolution for you! Thank you
+Sentiment: 0.7610108852386475
+---------------------------------------------
+# 144
+Tweet: @CEEKTechnology Hi Chris, were unable to confirm if therell be a blog update at this time but please keep following the blog as well as out community pages for all of the updates that do roll out! Thanks and we hope youre well Chris, its always a pleasure to hear from you!
+Sentiment: 0.9804916381835938
+---------------------------------------------
+# 145
+Tweet: @gillett_liam Hey Liam, we dont have a timeline for that yet but were working on expanding it internationally. Be sure to continue following us for the latest news and updates, thanks!
+Sentiment: 0.8305248618125916
+---------------------------------------------
+# 146
+Tweet: @twynn92 Hi Timothy, thanks for reaching out! Wed definitely like to find out! Please contact our Google Disability Support team → https://t.co/k62jmHVkDH to discuss so we can further troubleshoot and review this for you. Thanks!
+Sentiment: 0.9842534065246582
+---------------------------------------------
+# 147
+Tweet: @CEEKTechnology Thanks for spreading the word! Were super excited for this.
+Sentiment: 0.9952327013015747
+---------------------------------------------
+# 148
+Tweet: @ahiggi Hey, Adrian! We dont have a timeline yet but were working on rolling this out to support additional languages and countries. Make sure to stay up to date by following us here on Twitter and on our blog. Thanks!
+Sentiment: 0.8185032606124878
+---------------------------------------------
+# 149
+Tweet: @SalimKassams1 Hey, Salim! We have support for additional languages and countries on the way. Be sure to continue to follow us here or on our blog for updates to come. Thanks!
+Sentiment: 0.8756136894226074
+---------------------------------------------
+# 150
+Tweet: @RobertJGabriel Hey Robert, if youd like to report an issue please let our Google Disability Support team know through email, chat or phone (M-F 8AM-5PM PT). This way we can discuss further, and escalate to the appropriate team, thanks! https://t.co/WLH2OclWR7
+Sentiment: 0.9521990418434143
+---------------------------------------------
+# 151
+Tweet: @ksuding Hey Kelli, thanks for spreading awareness and sharing. You rock!
+Sentiment: 0.9943192005157471
+---------------------------------------------
+# 152
+Tweet: @Publics_Notices Hey NZ Public Notices Team! Thanks for spreading the word. Were super excited for this new additional feature within Google Maps!
+Sentiment: 0.9971157312393188
+---------------------------------------------
+# 153
+Tweet: @SantiagoBlue7 Hey, Santiago! Thats a great idea. If you could, please submit this in our feedback form → https://t.co/h9VCzWjTv0 or contact our Disability Support team → https://t.co/k62jmHVkDH so they can file a feature request. Thanks!
+Sentiment: 0.9830816984176636
+---------------------------------------------
+# 154
+Tweet: @santaarnold Gotcha, thanks for clarifying. Can you reach out to the Google Disability Support team → https://t.co/k62jmHVkDH to discuss so we can further troubleshoot and escalate to the appropriate team, thanks!
+Sentiment: 0.9772160053253174
+---------------------------------------------
+# 155
+Tweet: @kevinlerickson Hi Kevin, thanks for the inquiry! To our understanding TalkBack is designed to work with one display on Android mobile devices. However, if youd like the feature youve described to be available please contact The Disability Support Team and let us know! https://t.co/WLH2OclWR7
+Sentiment: 0.9656205177307129
+---------------------------------------------
+# 156
+Tweet: @santaarnold Hey Tina, were not quite understanding. Are you saying your laptop says it wont receive anymore updates or your Galaxy S10? Please contact our support team through email, chat or phone (M-F 8AM-5PM PT) so we can escalate to the appropriate team, thanks! https://t.co/WLH2OclWR7
+Sentiment: 0.7665334939956665
+---------------------------------------------
+# 157
+Tweet: “To help blind and low-vision users, Google is using machine learning to generate descriptions for millions of images.” Read more from @FastCompany → https://t.co/9OrSuk2Q5V
+Sentiment: 0.7723546028137207
+---------------------------------------------
+# 158
+Tweet: @TylerK93 Hi Tyler, we really appreciate the suggestion and wed love to help with this! Please submit this as a request using our feedback form https://t.co/h9VCzWjTv0  or submit it to the Google Disability Support Team https://t.co/WLH2OclWR7 wholl gladly assist further! Thanks!
+Sentiment: 0.9850871562957764
+---------------------------------------------
+# 159
+Tweet: @AndreaVarosi Hey, Andrea! We will have Live Caption on Pixel 4 devices when we launch the app, but make sure to continue following us for more information as Live Caption releases. Thanks!
+Sentiment: 0.5
+---------------------------------------------
+# 160
+Tweet: @santaarnold Hey Tina, thats a bit out of our scope of support. You may want to reach out to the Google Chrome Help Community with that question. Heres the link: https://t.co/HCenrou11q. Thanks!
+Sentiment: 0.5
+---------------------------------------------
+# 161
+Tweet: @santaarnold Hey Tina! You use your Chromecast by controlling it with the Google Home app. Theres some more information on what accessibility features work with the Google Home app: https://t.co/mYGPcFkL9K. Let us know if you have any other questions. Thanks!
+Sentiment: 0.9161943197250366
+---------------------------------------------
+# 162
+Tweet: @ddalledo Hey Daniele, wed love to do some further testing regarding this. Can you reach out to us via  email, chat or phone (M-F 8AM-5PM PT) to discuss further and do more troubleshoot and escalate to the appropriate team, thanks! https://t.co/WLH2OclWR7
+Sentiment: 0.9158241748809814
+---------------------------------------------
+# 163
+Tweet: @kevinlerickson Hi Kevin, thanks for reaching out! If possible, please contact our Google Disability Support team through email, chat or phone (M-F 8AM-5PM PT) to discuss further so we can escalate this request to the appropriate team, thanks! https://t.co/WLH2OclWR7
+Sentiment: 0.5
+---------------------------------------------
+# 164
+Tweet: @ata_veda Hi Veda, we love hearing new ideas! Please submit yours in our feedback form → https://t.co/h9VCzWjTv0 or by contacting our Disability Support team → https://t.co/k62jmHVkDH. Thanks!
+Sentiment: 0.9690364599227905
+---------------------------------------------
+# 165
+Tweet: @GeneticDisUK Hello Genetic Disorders UK team! Thanks for the share. We hope youre as excited about it as we are!
+Sentiment: 0.9933614730834961
+---------------------------------------------
+# 166
+Tweet: @springgirl92 Hey there! This is a great suggestion. Wed recommend that you send feedback to YouTube directly by following the steps in this link: https://t.co/7AXm7PtdNn, or you can send it to our forum via this link too: https://t.co/h9VCzWjTv0. Thanks!
+Sentiment: 0.9930813908576965
+---------------------------------------------
+# 167
+Tweet: @wizzyfx Hey Ugurcan, wed love to help you get this resolved! Please contact The Google Disability Support Team  https://t.co/WLH2OclWR7 wholl be able to collect more info, test the issue on their side and help you find a resolution! Thanks!
+Sentiment: 0.8622894287109375
+---------------------------------------------
+# 168
+Tweet: @mattfinder_ Hey Matt! Were excited about it too and cant wait to roll it out. Thanks for the kind words!
+Sentiment: 0.9994555711746216
+---------------------------------------------
+# 169
+Tweet: @springgirl92 Hey, there! As of right now, this will only be available on Android devices at launch. We hope that you are as excited about it as we are. Make sure to continue following us for the latest news and updates, thanks!
+Sentiment: 0.9807588458061218
+---------------------------------------------
+# 170
+Tweet: Introducing Action Blocks: one tap to make technology more accessible. Action Blocks is the first of our many efforts to empower people with cognitive disabilities and help them gain independence. Read more about Action Blocks → https://t.co/0szN22pdSQ https://t.co/r98sMkLJC7
+Sentiment: 0.5
+---------------------------------------------
+# 171
+Tweet: @AndreaVarosi Hey Andrea, Live Relay is still in its research phase, but were working hard in developing it. Be sure to continue following us for the latest news and updates, thanks!
+Sentiment: 0.8675435781478882
+---------------------------------------------
+# 172
+Tweet: @AlexKLMan Hi Alex, thanks for letting us know! Wed love to help get this resolved for you, please contact the Disability Support Team https://t.co/WLH2OclWR7 and well be sure to get right to testing and getting this figured out for you!
+Sentiment: 0.9459486603736877
+---------------------------------------------

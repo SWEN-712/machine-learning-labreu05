@@ -1,0 +1,15 @@
+{
+  "name": "swen712-ml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "analyze": "node index.js > results.txt"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
